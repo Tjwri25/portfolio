@@ -20,3 +20,4 @@ https://tjwri25.github.io/portfolio/
 ## Screenshots
 
 ![_C__Users_tjwri_Desktop_bootcamp_Homework_week8-homework_portfolio_index html](https://user-images.githubusercontent.com/74884495/109461885-09fc3d80-7a20-11eb-8e3b-74420220ae4e.png)
+![_C__Users_tjwri_Desktop_bootcamp_Homework_week8-homework_portfolio_portfolio html](https://user-images.githubusercontent.com/74884495/109462019-2a2bfc80-7a20-11eb-84c5-05774acc5f47.png)
