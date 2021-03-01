@@ -18,3 +18,5 @@ https://tjwri25.github.io/portfolio/
 3. https://getbootstrap.com/
 
 ## Screenshots
+
+![_C__Users_tjwri_Desktop_bootcamp_Homework_week8-homework_portfolio_index html](https://user-images.githubusercontent.com/74884495/109461885-09fc3d80-7a20-11eb-8e3b-74420220ae4e.png)
