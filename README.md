@@ -1,7 +1,7 @@
 # Updated Portfolio 
  
 ## Description
-I updated my portfolio to add a few of my finished projects, and also an updated resume, linkedIn and Github profiles. I really liked the design of my original portfolio, so I wanted to keep the same theme. I changed around a number of things to make it even more responsive than before. 
+I updated my portfolio to add a few of my finished projects, and also an updated resume, linkedIn and Github profiles. I really liked the design of my original portfolio, so I wanted to keep the same theme. 
 
 
 ## Deployed Page 

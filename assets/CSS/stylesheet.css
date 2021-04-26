@@ -45,6 +45,16 @@ body {
     text-align: center;  
 }
 
+#beernuts {
+  margin-bottom: 10px;
+  background:  #e6e6e6;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+  opacity: 1;
+  font-family: 'Italiana';
+  text-align: center;  
+}
 
 .fa {
   color:black;
